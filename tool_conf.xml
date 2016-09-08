@@ -1,0 +1,4 @@
+  <label id="additional_tools" text="Additional Tools" />
+  <section id="pitagora_tools" name="Pitagora Tools">
+    <tool file="download_ref/download_ref.xml" />
+  </section>
